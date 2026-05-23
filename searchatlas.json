@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "ignored_paths": [
+    ".secret/",
+    "private/"
+  ]
+}
